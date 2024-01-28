@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/quinn-p-mchugh/cookiecutter-apps-script">
-    <img src="cookiecutter-apps-script/assets/logo.svg" alt="Logo" width="125" height="125">
+    <img src="assets/logo.svg" alt="Logo" width="125" height="125">
   </a>
 </h1>
 
