@@ -16,7 +16,7 @@
       "_copy_without_render": [
         "cookiecutter.json",
         "workflows/cruft-update.yml",
-        "{{ cookiecutter.project_slug }}/*"
+        "{{ cookiecutter.project_slug }}/"
       ],
       "_template": "https://github.com/quinn-p-mchugh/cookiecutter-cookiecutter"
     }
