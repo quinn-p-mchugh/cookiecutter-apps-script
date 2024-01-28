@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/quinn-p-mchugh/cookiecutter-cookiecutter",
-  "commit": "3dd0b64d50d97c67984246e21cb16645b1dc35a1",
+  "commit": "e64369555d58ba23f109a25bc88b858838e1e8fa",
   "checkout": null,
   "context": {
     "cookiecutter": {
